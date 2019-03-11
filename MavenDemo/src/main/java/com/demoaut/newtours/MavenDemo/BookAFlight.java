@@ -23,8 +23,6 @@ public class BookAFlight {
 		PageFactory.initElements(driver, this);
 	}
 	
-	//Comment
-	
 	public void flightBooking(String fName, String lName, String creditCardNumber) {
 		firstName.sendKeys(fName);
 		lastName.sendKeys(lName);
