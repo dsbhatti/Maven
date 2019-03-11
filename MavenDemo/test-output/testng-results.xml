@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-03-10T16:15:38Z" name="Suite" finished-at="2019-03-10T16:18:25Z" duration-ms="167331">
+    <groups>
+    </groups>
+    <test started-at="2019-03-10T16:15:38Z" name="Test" finished-at="2019-03-10T16:18:25Z" duration-ms="167331">
+      <class name="com.demoaut.newtours.MavenDemo.InvalidUserTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.MavenDemo.InvalidUserTest@757277dc]" started-at="2019-03-10T16:16:22Z" name="openBrowser" finished-at="2019-03-10T16:16:28Z" duration-ms="5202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="invalidUserTest()[pri:0, instance:com.demoaut.newtours.MavenDemo.InvalidUserTest@757277dc]" started-at="2019-03-10T16:16:28Z" name="invalidUserTest" finished-at="2019-03-10T16:16:29Z" duration-ms="1726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUserTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.MavenDemo.InvalidUserTest@757277dc]" started-at="2019-03-10T16:16:29Z" name="closeBrowser" finished-at="2019-03-10T16:16:29Z" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.MavenDemo.InvalidUserTest -->
+      <class name="com.demoaut.newtours.MavenDemo.ValidateUserTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.MavenDemo.ValidateUserTest@687e99d8]" started-at="2019-03-10T16:16:29Z" name="openBrowser" finished-at="2019-03-10T16:16:35Z" duration-ms="5121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="userValidation()[pri:0, instance:com.demoaut.newtours.MavenDemo.ValidateUserTest@687e99d8]" started-at="2019-03-10T16:16:35Z" name="userValidation" finished-at="2019-03-10T16:18:25Z" duration-ms="110466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userValidation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.MavenDemo.ValidateUserTest@687e99d8]" started-at="2019-03-10T16:18:25Z" name="closeBrowser" finished-at="2019-03-10T16:18:25Z" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.MavenDemo.ValidateUserTest -->
+      <class name="com.demoaut.newtours.MavenDemo.BookTicketTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.MavenDemo.BookTicketTest@5c671d7f]" started-at="2019-03-10T16:15:38Z" name="openBrowser" finished-at="2019-03-10T16:15:43Z" duration-ms="5704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="ticketBookingTest()[pri:0, instance:com.demoaut.newtours.MavenDemo.BookTicketTest@5c671d7f]" started-at="2019-03-10T16:15:43Z" name="ticketBookingTest" finished-at="2019-03-10T16:16:22Z" duration-ms="38963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ticketBookingTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.MavenDemo.BookTicketTest@5c671d7f]" started-at="2019-03-10T16:16:22Z" name="closeBrowser" finished-at="2019-03-10T16:16:22Z" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.MavenDemo.BookTicketTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
