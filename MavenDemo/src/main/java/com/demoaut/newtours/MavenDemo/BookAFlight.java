@@ -25,6 +25,8 @@ public class BookAFlight {
 	
 	//Comment
 	//Added
+	//And checked
+	
 	public void flightBooking(String fName, String lName, String creditCardNumber) {
 		firstName.sendKeys(fName);
 		lastName.sendKeys(lName);
