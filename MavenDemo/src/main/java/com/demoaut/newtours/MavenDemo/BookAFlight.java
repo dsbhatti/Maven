@@ -33,5 +33,9 @@ public class BookAFlight {
 		ccNumber.sendKeys(creditCardNumber);
 		submit.click();
 	}
+	
+	public void day() {
+		System.out.println("Sunday");
+	}
 
 }
